@@ -100,5 +100,7 @@
  .custom{
     padding: 30px 20px;
  }
+    .footer__list {
+        gap:30px;}
 }
 }
