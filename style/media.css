@@ -7,6 +7,8 @@
         flex-wrap: wrap;
         margin: 30px auto;
     }
+    .footer__list {
+        gap:30px;}
     
 }
 @media(max-width:992px){
@@ -22,6 +24,8 @@
         
         margin: 20px 0;
     }
+    .footer__list {
+        gap:30px;}
 }
 @media(max-width:768px){
 .footer__item{
@@ -47,7 +51,9 @@
 }
 .header__content_title{
     font-size: 35px;
-    line-height: 50px;
+    line-height: 50px;}
+    .footer__list {
+        gap:30px;}
 }
 @media(max-width:576px){
 .nav__list{
@@ -88,6 +94,8 @@
  .custom__title{
     font-size: 30px;
  }
+    .footer__list {
+        gap:30px;}
 }
 @media(max-width:375px){
    .fashion__desc_title{
